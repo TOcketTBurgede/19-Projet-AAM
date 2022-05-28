@@ -1,2 +1,3 @@
-# 19-Projet-AAM
-Il s'agit d'un projet final noté pour notre cours de Communication Sans-Fil
+# L1-Projet-AAM
+Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université Nice Sophia Antipolis
+

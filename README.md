@@ -5,7 +5,8 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 
 # Description du projet 
 
-#### Le Projet AAM, Automatisation Anti Microorganisme, est comme son nom décomposé l'indique, une automatisation d'un distributeur de gel hydroalcoolique
+#### Le Projet AAM, Automatisation Anti Microorganisme, est comme son nom décomposé l'indique, une automatisation d'un distributeur de gel hydroalcoolique.
+#### L'utilisateur n'aura qu'à passer sa main devant la machine pour recevoir sa dose de gel et donc se désinfecter les mains.
 
 
 # Matériel utilisé

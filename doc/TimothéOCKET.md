@@ -19,6 +19,5 @@ On a finit le projet donc comme convenu, on va y apporter des améliorations. On
 permettre d'ouvrir le boitier et changer le gel hydroalcoolique/en remettre.
 
 #### Mercredi 25 mai :
-J'ai finis de préparer le boitier en bois et je l'ai amené à Théo pour qu'il intègre le module RFID (le système de carte magnétique) et la "porte" qui se dévérouille
-pour laisser les propriétaires de l'AAM changer le liquide désinfectant.
-J'ai laissé l'AAM à Théo car il nécessitait d'encore quelques petits détails et il souhaitait s'en occuper lui.
+J'ai finis de préparer les planches du boitier en bois, il suffit juste d'assembler en collant les bouts entre eux. Je l'ai amené à Théo pour qu'il intègre le module RFID (le système de carte magnétique) et la "porte" qui se dévérouille pour laisser les propriétaires de l'AAM changer le liquide désinfectant.
+Théo a insisté pour qu'il monte et perce la boite lui alors je lui ai laissé les planches découpés et numérotés

@@ -19,6 +19,7 @@ En dehors de son boitier, voici à quoi ressemble le Projet AAM
 - x2 Servomoteur
 - x1 Distributeur manuel de gel hydroalcoolique
 - x1 Fragment de breadboard (pour le cable management)
+- x1 Crochet (Sert pour la serrure)
 - Beaucoups de fils
 - Des planches de bois 
 
